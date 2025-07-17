@@ -1,0 +1,135 @@
+# ============================================
+# WhatsApp Bot MOPOF - .gitignore
+# ============================================
+
+# 🔑 CREDENCIALES Y TOKENS (NUNCA SUBIR)
+oauth_credentials.json
+token.json
+credentials.json
+*.key
+*.pem
+
+# 📱 WHATSAPP SESSION DATA
+auth_info/
+session/
+.sessions/
+
+# 🗄️ DATOS CAPTURADOS Y PROCESADOS
+data/
+media_descargados/
+backups/
+uploads/
+
+# 📋 LOGS Y REPORTES
+logs/
+*.log
+*.log.*
+error.log
+debug.log
+
+# 🏗️ NODE.JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# 📦 PACKAGE LOCKS (opcional - descomenta si usas yarn)
+# package-lock.json
+# yarn.lock
+
+# 🔧 CONFIGURACIÓN LOCAL
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config/local.json
+config/production.json
+
+# 💾 BASES DE DATOS LOCALES
+*.db
+*.sqlite
+*.sqlite3
+
+# 📊 ARCHIVOS TEMPORALES
+temp/
+tmp/
+*.tmp
+*.temp
+.cache/
+
+# 🖥️ SISTEMA OPERATIVO
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 📝 EDITORES DE CÓDIGO
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 🧪 TESTING
+coverage/
+.nyc_output/
+test-results/
+
+# 📁 CARPETAS DE DESARROLLO
+dist/
+build/
+.next/
+.nuxt/
+
+# 🔄 BACKUPS AUTOMÁTICOS
+*.backup
+*.bak
+*.old
+
+# ============================================
+# ARCHIVOS QUE SÍ DEBEN ESTAR EN GITHUB
+# ============================================
+# ✅ main.js
+# ✅ package.json
+# ✅ requirements.txt
+# ✅ CREDENCIALES.txt (guía)
+# ✅ managers/ (sin API keys reales)
+# ✅ processors/
+# ✅ strategies/
+# ✅ utils/
+# ✅ README.md
+# ✅ .gitignore (este archivo)
+
+# ============================================
+# NOTAS IMPORTANTES
+# ============================================
+# 
+# 🔒 SEGURIDAD:
+# - Este .gitignore protege credenciales y datos sensibles
+# - Nunca hagas 'git add -f' en archivos listados aquí
+# - Si accidentalmente subes credenciales, regenera las API keys
+#
+# 🔄 DESPUÉS DE CLONAR:
+# - Crear oauth_credentials.json manualmente
+# - Configurar API keys en managers/IAManager.js
+# - Las carpetas data/, logs/, etc. se crean automáticamente
+#
+# 📂 ESTRUCTURA ESPERADA DESPUÉS DE .gitignore:
+# proyecto/
+# ├── .gitignore (este archivo)
+# ├── main.js
+# ├── package.json
+# ├── requirements.txt
+# ├── CREDENCIALES.txt
+# ├── managers/
+# ├── processors/
+# ├── strategies/
+# ├── utils/
+# └── [carpetas excluidas se crean automáticamente]

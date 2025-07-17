@@ -1,0 +1,38 @@
+{
+  "evento": "SISTEMA_RESETEADO",
+  "fecha": "2025-07-16T23:52:13.129Z",
+  "solicitadoPor": {
+    "contacto": "~Bell",
+    "fecha": "16/7/2025",
+    "hora": "20:52:01",
+    "messageId": "3FD9F772D5D765EE5EF7"
+  },
+  "accionesRealizadas": {
+    "backupCreado": true,
+    "directorioBackup": "./backups/delete_backup_2025-07-16T23-52-13-095Z",
+    "configuracionReseteada": true,
+    "archivosJSONLimpiados": true,
+    "mediaLimpiada": true
+  },
+  "estadoAnterior": {
+    "timestamp": "2025-07-16T23:52:13.129Z"
+  },
+  "estadoPosterior": {
+    "barrios": {
+      "barrio1": {
+        "nombre": null,
+        "activo": false
+      },
+      "barrio2": {
+        "nombre": null,
+        "activo": false
+      },
+      "barrio3": {
+        "nombre": null,
+        "activo": false
+      }
+    },
+    "archivosJSON": "vacios",
+    "mediaDescargada": "limpia"
+  }
+}

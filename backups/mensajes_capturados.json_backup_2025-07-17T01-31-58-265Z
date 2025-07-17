@@ -1,0 +1,2270 @@
+[
+  {
+    "messageId": "3F990146228E428112F1",
+    "timestamp": 1752710885000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:05",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F990146228E428112F1",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710885
+    },
+    "id": 1752710878023.8496,
+    "fechaCaptura": "2025-07-17T00:07:58.023Z",
+    "fechaProcesado": "2025-07-17T00:09:16.337Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3F2AFF42FCA545A5CD76",
+    "timestamp": 1752710885000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:05",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F2AFF42FCA545A5CD76",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710885
+    },
+    "id": 1752710926126.0808,
+    "fechaCaptura": "2025-07-17T00:08:46.126Z",
+    "fechaProcesado": "2025-07-17T00:09:28.929Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3F958C45E010575FE16F",
+    "timestamp": 1752710886000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:06",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F958C45E010575FE16F",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710886
+    },
+    "id": 1752710926134.863,
+    "fechaCaptura": "2025-07-17T00:08:46.134Z",
+    "fechaProcesado": "2025-07-17T00:09:41.229Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3F88C78046A9E1B3F51F",
+    "timestamp": 1752710887000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:07",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F88C78046A9E1B3F51F",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710887
+    },
+    "id": 1752710926139.625,
+    "fechaCaptura": "2025-07-17T00:08:46.139Z",
+    "fechaProcesado": "2025-07-17T00:09:53.714Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3FDFDBBED1A8579C436E",
+    "timestamp": 1752710888000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:08",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FDFDBBED1A8579C436E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710888
+    },
+    "id": 1752710926146.8574,
+    "fechaCaptura": "2025-07-17T00:08:46.146Z",
+    "fechaProcesado": "2025-07-17T00:10:06.184Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3F0914B7F79A343D6A2C",
+    "timestamp": 1752710893000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:13",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F0914B7F79A343D6A2C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710893
+    },
+    "id": 1752710926150.6326,
+    "fechaCaptura": "2025-07-17T00:08:46.150Z",
+    "fechaProcesado": "2025-07-17T00:10:38.826Z",
+    "resultadoProcesamiento": "Datos de barrio 3 procesados"
+  },
+  {
+    "messageId": "3F10FF780E6C65B49457",
+    "timestamp": 1752710894000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:14",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F10FF780E6C65B49457",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710894
+    },
+    "id": 1752710926160.8987,
+    "fechaCaptura": "2025-07-17T00:08:46.160Z",
+    "fechaProcesado": "2025-07-17T00:10:51.674Z",
+    "resultadoProcesamiento": "Datos de barrio 3 procesados"
+  },
+  {
+    "messageId": "3FF6FA435D1B5FF1A201",
+    "timestamp": 1752710895000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:15",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FF6FA435D1B5FF1A201",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710895
+    },
+    "id": 1752710926233.068,
+    "fechaCaptura": "2025-07-17T00:08:46.233Z",
+    "fechaProcesado": "2025-07-17T00:11:04.469Z",
+    "resultadoProcesamiento": "Datos de barrio 3 procesados"
+  },
+  {
+    "messageId": "3F1576BD80425F2D3FAC",
+    "timestamp": 1752710901000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:21",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F1576BD80425F2D3FAC",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710901
+    },
+    "id": 1752710926264.8245,
+    "fechaCaptura": "2025-07-17T00:08:46.264Z",
+    "fechaProcesado": "2025-07-17T00:10:18.857Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3FAD6BBD1588D01F861A",
+    "timestamp": 1752710901000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:21",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FAD6BBD1588D01F861A",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710901
+    },
+    "id": 1752710926289.64,
+    "fechaCaptura": "2025-07-17T00:08:46.289Z",
+    "fechaProcesado": "2025-07-17T00:10:31.600Z",
+    "resultadoProcesamiento": "Datos de barrio 2 procesados"
+  },
+  {
+    "messageId": "3F3D4ABB67BAFD4DA632",
+    "timestamp": 1752710906000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:26",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3D4ABB67BAFD4DA632",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710906
+    },
+    "id": 1752710926319.2727,
+    "fechaCaptura": "2025-07-17T00:08:46.319Z",
+    "fechaProcesado": "2025-07-17T00:11:17.061Z",
+    "resultadoProcesamiento": "Datos de barrio 3 procesados"
+  },
+  {
+    "messageId": "3FDD6AE4409F06C72717",
+    "timestamp": 1752710907000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:27",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FDD6AE4409F06C72717",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710907
+    },
+    "id": 1752710926349.7402,
+    "fechaCaptura": "2025-07-17T00:08:46.349Z",
+    "fechaProcesado": "2025-07-17T00:11:29.656Z",
+    "resultadoProcesamiento": "Datos de barrio 3 procesados"
+  },
+  {
+    "messageId": "3F9AC021DFEAEC19B684",
+    "timestamp": 1752712307000,
+    "fecha": "16/7/2025",
+    "hora": "21:31:47",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "5 Reunión vecinal mañana a las 19hs en la plaza para tratar tema del alumbrado",
+    "codigo": 5,
+    "contenido": "Reunión vecinal mañana a las 19hs en la plaza para tratar tema del alumbrado",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F9AC021DFEAEC19B684",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712307
+    },
+    "id": 1752712399353.101,
+    "fechaCaptura": "2025-07-17T00:33:19.353Z",
+    "fechaProcesado": "2025-07-17T00:33:38.766Z",
+    "resultadoProcesamiento": "Agenda procesada con IA"
+  },
+  {
+    "messageId": "3FCFE0EA538EE1193E78",
+    "timestamp": 1752712821000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:21",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FCFE0EA538EE1193E78",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712821
+    },
+    "id": 1752713048921.549,
+    "fechaCaptura": "2025-07-17T00:44:08.921Z",
+    "fechaProcesado": "2025-07-17T00:46:38.363Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F0ED741ACCB4F25E0C5",
+    "timestamp": 1752712822000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:22",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F0ED741ACCB4F25E0C5",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712822
+    },
+    "id": 1752713048926.576,
+    "fechaCaptura": "2025-07-17T00:44:08.926Z",
+    "fechaProcesado": "2025-07-17T00:46:50.948Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FD2D19A749D46D5E822",
+    "timestamp": 1752712825000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:25",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FD2D19A749D46D5E822",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712825
+    },
+    "id": 1752713048930.0632,
+    "fechaCaptura": "2025-07-17T00:44:08.930Z",
+    "fechaProcesado": "2025-07-17T00:47:02.646Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FE40D316145FDC55122",
+    "timestamp": 1752712825000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:25",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FE40D316145FDC55122",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712825
+    },
+    "id": 1752713048934.035,
+    "fechaCaptura": "2025-07-17T00:44:08.934Z",
+    "fechaProcesado": "2025-07-17T00:47:14.608Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F963ACE61956B16E818",
+    "timestamp": 1752712826000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:26",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F963ACE61956B16E818",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712826
+    },
+    "id": 1752713048937.5352,
+    "fechaCaptura": "2025-07-17T00:44:08.937Z",
+    "fechaProcesado": "2025-07-17T00:47:27.204Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F2252883BDCE2C7CBF1",
+    "timestamp": 1752712827000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:27",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F2252883BDCE2C7CBF1",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712827
+    },
+    "id": 1752713048975.4473,
+    "fechaCaptura": "2025-07-17T00:44:08.975Z",
+    "fechaProcesado": "2025-07-17T00:47:39.694Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F029787DD5A0FAAB98F",
+    "timestamp": 1752712829000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:29",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F029787DD5A0FAAB98F",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712829
+    },
+    "id": 1752713048998.3972,
+    "fechaCaptura": "2025-07-17T00:44:08.998Z",
+    "fechaProcesado": "2025-07-17T00:47:52.389Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F0F75F483C4E2C14180",
+    "timestamp": 1752712829000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:29",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F0F75F483C4E2C14180",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712829
+    },
+    "id": 1752713049020.6545,
+    "fechaCaptura": "2025-07-17T00:44:09.020Z",
+    "fechaProcesado": "2025-07-17T00:48:04.685Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FC219EB9C60C96D716E",
+    "timestamp": 1752712830000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:30",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FC219EB9C60C96D716E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712830
+    },
+    "id": 1752713049045.8398,
+    "fechaCaptura": "2025-07-17T00:44:09.045Z",
+    "fechaProcesado": "2025-07-17T00:48:17.169Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F1F229C3C34477C06F3",
+    "timestamp": 1752712831000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:31",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F1F229C3C34477C06F3",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712831
+    },
+    "id": 1752713049066.8958,
+    "fechaCaptura": "2025-07-17T00:44:09.066Z",
+    "fechaProcesado": "2025-07-17T00:48:29.565Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F5E9DF597318DD534AF",
+    "timestamp": 1752712831000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:31",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F5E9DF597318DD534AF",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712831
+    },
+    "id": 1752713049086.432,
+    "fechaCaptura": "2025-07-17T00:44:09.086Z",
+    "fechaProcesado": "2025-07-17T00:48:42.510Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F6162B79D58FD7A1F40",
+    "timestamp": 1752712832000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:32",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F6162B79D58FD7A1F40",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712832
+    },
+    "id": 1752713049105.451,
+    "fechaCaptura": "2025-07-17T00:44:09.105Z",
+    "fechaProcesado": "2025-07-17T00:48:54.855Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F3CDA6AC37AF6BDA99E",
+    "timestamp": 1752712833000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:33",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3CDA6AC37AF6BDA99E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712833
+    },
+    "id": 1752713049124.8896,
+    "fechaCaptura": "2025-07-17T00:44:09.124Z",
+    "fechaProcesado": "2025-07-17T00:49:06.629Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F8DF17248FF2D6E1512",
+    "timestamp": 1752712833000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:33",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F8DF17248FF2D6E1512",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712833
+    },
+    "id": 1752713049145.329,
+    "fechaCaptura": "2025-07-17T00:44:09.145Z",
+    "fechaProcesado": "2025-07-17T00:49:19.124Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F2E916E0BF60590B781",
+    "timestamp": 1752712835000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:35",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F2E916E0BF60590B781",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712835
+    },
+    "id": 1752713049164.9238,
+    "fechaCaptura": "2025-07-17T00:44:09.164Z",
+    "fechaProcesado": "2025-07-17T00:49:31.819Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F24F2DE663A301C92E9",
+    "timestamp": 1752712836000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:36",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F24F2DE663A301C92E9",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712836
+    },
+    "id": 1752713049186.0728,
+    "fechaCaptura": "2025-07-17T00:44:09.186Z",
+    "fechaProcesado": "2025-07-17T00:49:43.903Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F41BB8A81BF7E07DE37",
+    "timestamp": 1752712836000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:36",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F41BB8A81BF7E07DE37",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712836
+    },
+    "id": 1752713049215.9756,
+    "fechaCaptura": "2025-07-17T00:44:09.215Z",
+    "fechaProcesado": "2025-07-17T00:49:56.294Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F8010EEDB151932D0ED",
+    "timestamp": 1752712837000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:37",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F8010EEDB151932D0ED",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712837
+    },
+    "id": 1752713049235.8987,
+    "fechaCaptura": "2025-07-17T00:44:09.235Z",
+    "fechaProcesado": "2025-07-17T00:50:09.048Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F86E0C480F2D3989EEC",
+    "timestamp": 1752712838000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:38",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F86E0C480F2D3989EEC",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712838
+    },
+    "id": 1752713049252.1584,
+    "fechaCaptura": "2025-07-17T00:44:09.252Z",
+    "fechaProcesado": "2025-07-17T00:50:21.993Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F0E626295676817BE9C",
+    "timestamp": 1752712839000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:39",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F0E626295676817BE9C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712839
+    },
+    "id": 1752713049270.518,
+    "fechaCaptura": "2025-07-17T00:44:09.270Z",
+    "fechaProcesado": "2025-07-17T00:50:34.489Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F3F0A220F68050FB1D6",
+    "timestamp": 1752712840000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:40",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3F0A220F68050FB1D6",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712840
+    },
+    "id": 1752713049288.5999,
+    "fechaCaptura": "2025-07-17T00:44:09.288Z",
+    "fechaProcesado": "2025-07-17T00:50:47.285Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FCD6D585513E5CF6B98",
+    "timestamp": 1752712841000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:41",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FCD6D585513E5CF6B98",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712841
+    },
+    "id": 1752713049311.0242,
+    "fechaCaptura": "2025-07-17T00:44:09.311Z",
+    "fechaProcesado": "2025-07-17T00:50:59.773Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F12B36578AD9C2F16FF",
+    "timestamp": 1752712842000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:42",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F12B36578AD9C2F16FF",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712842
+    },
+    "id": 1752713049329.9187,
+    "fechaCaptura": "2025-07-17T00:44:09.329Z",
+    "fechaProcesado": "2025-07-17T00:51:12.169Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F5AA64663F615F28663",
+    "timestamp": 1752712842000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:42",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F5AA64663F615F28663",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712842
+    },
+    "id": 1752713049346.688,
+    "fechaCaptura": "2025-07-17T00:44:09.346Z",
+    "fechaProcesado": "2025-07-17T00:51:25.376Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F8C755F0D700BA130C6",
+    "timestamp": 1752712843000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:43",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F8C755F0D700BA130C6",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712843
+    },
+    "id": 1752713049363.315,
+    "fechaCaptura": "2025-07-17T00:44:09.363Z",
+    "fechaProcesado": "2025-07-17T00:51:38.277Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F28A91A520B299753D8",
+    "timestamp": 1752712843000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:43",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F28A91A520B299753D8",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712843
+    },
+    "id": 1752713049382.6848,
+    "fechaCaptura": "2025-07-17T00:44:09.382Z",
+    "fechaProcesado": "2025-07-17T00:51:50.840Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F8B256B378243E55D39",
+    "timestamp": 1752712844000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:44",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F8B256B378243E55D39",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712844
+    },
+    "id": 1752713049402.846,
+    "fechaCaptura": "2025-07-17T00:44:09.402Z",
+    "fechaProcesado": "2025-07-17T00:52:11.052Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F9ECB87A52AE7B66E9C",
+    "timestamp": 1752712845000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:45",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F9ECB87A52AE7B66E9C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712845
+    },
+    "id": 1752713049422.117,
+    "fechaCaptura": "2025-07-17T00:44:09.422Z",
+    "fechaProcesado": "2025-07-17T00:52:31.223Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F3E63F4A892C9FD0C8E",
+    "timestamp": 1752712845000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:45",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3E63F4A892C9FD0C8E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712845
+    },
+    "id": 1752713049444.1191,
+    "fechaCaptura": "2025-07-17T00:44:09.444Z",
+    "fechaProcesado": "2025-07-17T00:52:51.200Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FBEDD8AB78EDA7AFB0D",
+    "timestamp": 1752712846000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:46",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FBEDD8AB78EDA7AFB0D",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712846
+    },
+    "id": 1752713049463.184,
+    "fechaCaptura": "2025-07-17T00:44:09.463Z",
+    "fechaProcesado": "2025-07-17T00:53:10.653Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FB77A7E4C02FB16911E",
+    "timestamp": 1752712847000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:47",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FB77A7E4C02FB16911E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712847
+    },
+    "id": 1752713049479.6782,
+    "fechaCaptura": "2025-07-17T00:44:09.479Z",
+    "fechaProcesado": "2025-07-17T00:53:30.003Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FFF291BD4A091F4B1DB",
+    "timestamp": 1752712847000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:47",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "v",
+    "codigo": 0,
+    "contenido": "v",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FFF291BD4A091F4B1DB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712847
+    },
+    "id": 1752713049497.5764,
+    "fechaCaptura": "2025-07-17T00:44:09.497Z"
+  },
+  {
+    "messageId": "3F9FE67634D4034AF1F5",
+    "timestamp": 1752712850000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:50",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F9FE67634D4034AF1F5",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712850
+    },
+    "id": 1752713049517.3738,
+    "fechaCaptura": "2025-07-17T00:44:09.517Z",
+    "fechaProcesado": "2025-07-17T00:53:50.070Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F76D0E7213A4641AB79",
+    "timestamp": 1752712852000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:52",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F76D0E7213A4641AB79",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712852
+    },
+    "id": 1752713049535.57,
+    "fechaCaptura": "2025-07-17T00:44:09.535Z",
+    "fechaProcesado": "2025-07-17T00:54:09.317Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FEBF5373244C007377C",
+    "timestamp": 1752712862000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:02",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FEBF5373244C007377C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712862
+    },
+    "id": 1752713049570.2312,
+    "fechaCaptura": "2025-07-17T00:44:09.570Z",
+    "fechaProcesado": "2025-07-17T00:54:27.952Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FB305AD538AE756EDAB",
+    "timestamp": 1752712862000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:02",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FB305AD538AE756EDAB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712862
+    },
+    "id": 1752713049587.8545,
+    "fechaCaptura": "2025-07-17T00:44:09.587Z",
+    "fechaProcesado": "2025-07-17T00:54:48.219Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F878CD11F393F520E0D",
+    "timestamp": 1752712863000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:03",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F878CD11F393F520E0D",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712863
+    },
+    "id": 1752713049608.733,
+    "fechaCaptura": "2025-07-17T00:44:09.608Z",
+    "fechaProcesado": "2025-07-17T00:55:08.113Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F0BAF1FB0B87C1E753D",
+    "timestamp": 1752712864000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:04",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F0BAF1FB0B87C1E753D",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712864
+    },
+    "id": 1752713049629.2368,
+    "fechaCaptura": "2025-07-17T00:44:09.629Z",
+    "fechaProcesado": "2025-07-17T00:55:27.455Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F3E47A54634E3AC5EDE",
+    "timestamp": 1752712865000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:05",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3E47A54634E3AC5EDE",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712865
+    },
+    "id": 1752713049649.7178,
+    "fechaCaptura": "2025-07-17T00:44:09.649Z",
+    "fechaProcesado": "2025-07-17T00:58:09.131Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F6619C149A1BB0C2C6B",
+    "timestamp": 1752712866000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:06",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F6619C149A1BB0C2C6B",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712866
+    },
+    "id": 1752713049669.1938,
+    "fechaCaptura": "2025-07-17T00:44:09.669Z",
+    "fechaProcesado": "2025-07-17T00:58:26.199Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F020266C4DB1D651D5C",
+    "timestamp": 1752712867000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:07",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F020266C4DB1D651D5C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712867
+    },
+    "id": 1752713049687.8337,
+    "fechaCaptura": "2025-07-17T00:44:09.687Z",
+    "fechaProcesado": "2025-07-17T00:58:43.267Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3FD4383E70F77129989E",
+    "timestamp": 1752712867000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:07",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FD4383E70F77129989E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712867
+    },
+    "id": 1752713049709.408,
+    "fechaCaptura": "2025-07-17T00:44:09.709Z",
+    "fechaProcesado": "2025-07-17T01:31:46.972Z",
+    "resultadoProcesamiento": "Datos de barrio 1 procesados con IA"
+  },
+  {
+    "messageId": "3F44C487E5CCFAF0858C",
+    "timestamp": 1752712868000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:08",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F44C487E5CCFAF0858C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712868
+    },
+    "id": 1752713049732.7168,
+    "fechaCaptura": "2025-07-17T00:44:09.732Z"
+  },
+  {
+    "messageId": "3F3FF6FEB4056FE9305C",
+    "timestamp": 1752712869000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:09",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3FF6FEB4056FE9305C",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712869
+    },
+    "id": 1752713049753.3132,
+    "fechaCaptura": "2025-07-17T00:44:09.753Z"
+  },
+  {
+    "messageId": "3F66D29C3120BE90C053",
+    "timestamp": 1752712869000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:09",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F66D29C3120BE90C053",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712869
+    },
+    "id": 1752713049770.0134,
+    "fechaCaptura": "2025-07-17T00:44:09.770Z"
+  },
+  {
+    "messageId": "3F5803CA0CD077BFCF18",
+    "timestamp": 1752712870000,
+    "fecha": "16/7/2025",
+    "hora": "21:41:10",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F5803CA0CD077BFCF18",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712870
+    },
+    "id": 1752713049790.2402,
+    "fechaCaptura": "2025-07-17T00:44:09.790Z"
+  },
+  {
+    "messageId": "3F3A6893CB6A0F47DF1D",
+    "timestamp": 1752712961000,
+    "fecha": "16/7/2025",
+    "hora": "21:42:41",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3A6893CB6A0F47DF1D",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712961
+    },
+    "id": 1752713049811.9705,
+    "fechaCaptura": "2025-07-17T00:44:09.812Z"
+  },
+  {
+    "messageId": "3FDA4FF0F6AAA9AC72CE",
+    "timestamp": 1752712961000,
+    "fecha": "16/7/2025",
+    "hora": "21:42:41",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FDA4FF0F6AAA9AC72CE",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712961
+    },
+    "id": 1752713049830.576,
+    "fechaCaptura": "2025-07-17T00:44:09.830Z"
+  },
+  {
+    "messageId": "3F3B605929DD87FE06C5",
+    "timestamp": 1752712962000,
+    "fecha": "16/7/2025",
+    "hora": "21:42:42",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3B605929DD87FE06C5",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712962
+    },
+    "id": 1752713049851.1284,
+    "fechaCaptura": "2025-07-17T00:44:09.851Z"
+  },
+  {
+    "messageId": "3F9A23807AD392318A34",
+    "timestamp": 1752712963000,
+    "fecha": "16/7/2025",
+    "hora": "21:42:43",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F9A23807AD392318A34",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712963
+    },
+    "id": 1752713049869.4749,
+    "fechaCaptura": "2025-07-17T00:44:09.869Z"
+  },
+  {
+    "messageId": "3F8373D1283EB5B6F683",
+    "timestamp": 1752713025000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:45",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F8373D1283EB5B6F683",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713025
+    },
+    "id": 1752713049887.5886,
+    "fechaCaptura": "2025-07-17T00:44:09.887Z"
+  },
+  {
+    "messageId": "3F54756C203FD3749A44",
+    "timestamp": 1752713026000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:46",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F54756C203FD3749A44",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713026
+    },
+    "id": 1752713049905.17,
+    "fechaCaptura": "2025-07-17T00:44:09.905Z"
+  },
+  {
+    "messageId": "3FCA8726E460B5E4C250",
+    "timestamp": 1752713026000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:46",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FCA8726E460B5E4C250",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713026
+    },
+    "id": 1752713049925.501,
+    "fechaCaptura": "2025-07-17T00:44:09.925Z"
+  },
+  {
+    "messageId": "3F23CAE27AFD32C6307B",
+    "timestamp": 1752713027000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:47",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F23CAE27AFD32C6307B",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713027
+    },
+    "id": 1752713049946.0967,
+    "fechaCaptura": "2025-07-17T00:44:09.946Z"
+  },
+  {
+    "messageId": "3F44D1ECF1870910B6DB",
+    "timestamp": 1752713028000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:48",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F44D1ECF1870910B6DB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713028
+    },
+    "id": 1752713049967.8486,
+    "fechaCaptura": "2025-07-17T00:44:09.967Z"
+  },
+  {
+    "messageId": "3F9EC038EF0EDB0C9C1E",
+    "timestamp": 1752713028000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:48",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F9EC038EF0EDB0C9C1E",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713028
+    },
+    "id": 1752713049987.443,
+    "fechaCaptura": "2025-07-17T00:44:09.987Z"
+  },
+  {
+    "messageId": "3F38D61F7A07A115CD25",
+    "timestamp": 1752713029000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:49",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F38D61F7A07A115CD25",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713029
+    },
+    "id": 1752713050008.9182,
+    "fechaCaptura": "2025-07-17T00:44:10.008Z"
+  },
+  {
+    "messageId": "3F75673E25C6A59763AB",
+    "timestamp": 1752713030000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:50",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F75673E25C6A59763AB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713030
+    },
+    "id": 1752713050029.8394,
+    "fechaCaptura": "2025-07-17T00:44:10.029Z"
+  },
+  {
+    "messageId": "3F688BE960182E276373",
+    "timestamp": 1752713031000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:51",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F688BE960182E276373",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713031
+    },
+    "id": 1752713050048.8804,
+    "fechaCaptura": "2025-07-17T00:44:10.048Z"
+  },
+  {
+    "messageId": "3F369BE4B2AA7291EEBC",
+    "timestamp": 1752713031000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:51",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F369BE4B2AA7291EEBC",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713031
+    },
+    "id": 1752713050067.9893,
+    "fechaCaptura": "2025-07-17T00:44:10.067Z"
+  },
+  {
+    "messageId": "3FCD06410FA88EA2C0A8",
+    "timestamp": 1752713032000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:52",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FCD06410FA88EA2C0A8",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713032
+    },
+    "id": 1752713050087.0737,
+    "fechaCaptura": "2025-07-17T00:44:10.087Z"
+  },
+  {
+    "messageId": "3FB45DB0FB24424536C7",
+    "timestamp": 1752713033000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:53",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FB45DB0FB24424536C7",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713033
+    },
+    "id": 1752713050106.9814,
+    "fechaCaptura": "2025-07-17T00:44:10.106Z"
+  },
+  {
+    "messageId": "3FA761F330C4FB22F3F5",
+    "timestamp": 1752713033000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:53",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FA761F330C4FB22F3F5",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713033
+    },
+    "id": 1752713050131.686,
+    "fechaCaptura": "2025-07-17T00:44:10.131Z"
+  },
+  {
+    "messageId": "3F97E469DCB1ADA65444",
+    "timestamp": 1752713034000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:54",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F97E469DCB1ADA65444",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713034
+    },
+    "id": 1752713050150.3306,
+    "fechaCaptura": "2025-07-17T00:44:10.150Z"
+  },
+  {
+    "messageId": "3FFFE0D2B2363813E945",
+    "timestamp": 1752713035000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:55",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FFFE0D2B2363813E945",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713035
+    },
+    "id": 1752713050169.31,
+    "fechaCaptura": "2025-07-17T00:44:10.169Z"
+  },
+  {
+    "messageId": "3F2BD6E008752ED5ACDC",
+    "timestamp": 1752713035000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:55",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F2BD6E008752ED5ACDC",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713035
+    },
+    "id": 1752713050186.0771,
+    "fechaCaptura": "2025-07-17T00:44:10.186Z"
+  },
+  {
+    "messageId": "3F971F3A64BB9B038DB2",
+    "timestamp": 1752713036000,
+    "fecha": "16/7/2025",
+    "hora": "21:43:56",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F971F3A64BB9B038DB2",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752713036
+    },
+    "id": 1752713050204.816,
+    "fechaCaptura": "2025-07-17T00:44:10.204Z"
+  }
+]

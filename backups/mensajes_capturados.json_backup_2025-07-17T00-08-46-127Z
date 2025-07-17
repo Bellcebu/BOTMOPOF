@@ -1,0 +1,29 @@
+[
+  {
+    "messageId": "3F990146228E428112F1",
+    "timestamp": 1752710885000,
+    "fecha": "16/7/2025",
+    "hora": "21:08:05",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F990146228E428112F1",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710885
+    },
+    "id": 1752710878023.8496,
+    "fechaCaptura": "2025-07-17T00:07:58.023Z"
+  }
+]

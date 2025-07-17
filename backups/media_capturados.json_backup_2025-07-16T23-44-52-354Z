@@ -1,0 +1,76 @@
+[
+  {
+    "messageId": "3F3ABC88E6E2DF666B08",
+    "timestamp": 1752709314000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:54",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "caption": "1 Poste de luz roto en San Juan 123",
+    "codigo": 1,
+    "tipoMedia": "imagen",
+    "fileName": "1752709314000_~Bell_1 Poste de luz roto en San Juan 123.jpg",
+    "filePath": "media_descargados\\1752709314000_~Bell_1 Poste de luz roto en San Juan 123.jpg",
+    "fileExtension": ".jpg",
+    "fileSize": 121935,
+    "fromMe": false,
+    "tipo": "media",
+    "procesado": false,
+    "subido": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F3ABC88E6E2DF666B08",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709314,
+      "mediaMessage": {
+        "mimetype": "image/jpeg",
+        "fileSha256": {
+          "0": 29,
+          "1": 71,
+          "2": 242,
+          "3": 106,
+          "4": 187,
+          "5": 229,
+          "6": 94,
+          "7": 250,
+          "8": 237,
+          "9": 90,
+          "10": 163,
+          "11": 192,
+          "12": 1,
+          "13": 189,
+          "14": 139,
+          "15": 41,
+          "16": 69,
+          "17": 144,
+          "18": 91,
+          "19": 228,
+          "20": 5,
+          "21": 227,
+          "22": 137,
+          "23": 89,
+          "24": 148,
+          "25": 63,
+          "26": 53,
+          "27": 128,
+          "28": 103,
+          "29": 227,
+          "30": 106,
+          "31": 10
+        },
+        "fileLength": {
+          "low": 121935,
+          "high": 0,
+          "unsigned": true
+        }
+      }
+    },
+    "id": 1752709321190.4175,
+    "fechaCaptura": "2025-07-16T23:42:01.190Z"
+  }
+]

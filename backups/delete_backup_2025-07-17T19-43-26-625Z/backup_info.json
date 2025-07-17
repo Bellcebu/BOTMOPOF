@@ -1,0 +1,11 @@
+{
+  "fechaBackup": "2025-07-17T19:43:26.634Z",
+  "razon": "Comando DELETE ejecutado",
+  "archivosIncluidos": [
+    "barrios_config.json",
+    "mensajes_capturados.json",
+    "media_capturados.json"
+  ],
+  "directorioBackup": "./backups/delete_backup_2025-07-17T19-43-26-625Z",
+  "totalArchivos": 3
+}

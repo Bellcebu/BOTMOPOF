@@ -1,0 +1,29 @@
+[
+  {
+    "messageId": "3F4AFC5D03A03CF8AEFB",
+    "timestamp": 1752710032000,
+    "fecha": "16/7/2025",
+    "hora": "20:53:52",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "11 VILLA ESPERANZA",
+    "codigo": 11,
+    "contenido": "VILLA ESPERANZA",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F4AFC5D03A03CF8AEFB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710032
+    },
+    "id": 1752710051446.0083,
+    "fechaCaptura": "2025-07-16T23:54:11.446Z"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "barrio1": {
+    "nombre": null,
+    "activo": false
+  },
+  "barrio2": {
+    "nombre": null,
+    "activo": false
+  },
+  "barrio3": {
+    "nombre": null,
+    "activo": false
+  },
+  "fechaActualizacion": "2025-07-16T23:52:10.071Z"
+}

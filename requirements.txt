@@ -1,0 +1,5 @@
+@whiskeysockets/baileys@^6.7.18
+googleapis@^152.0.0
+qrcode-terminal@^0.12.0
+open@^10.1.2
+xlsx@^0.18.5

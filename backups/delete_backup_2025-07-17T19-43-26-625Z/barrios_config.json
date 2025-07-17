@@ -1,0 +1,18 @@
+{
+  "barrio1": {
+    "nombre": "VILLA ESPERANZA",
+    "activo": true,
+    "fechaConfiguracion": "2025-07-16T23:54:34.392Z"
+  },
+  "barrio2": {
+    "nombre": "SAN MARTIN",
+    "activo": true,
+    "fechaConfiguracion": "2025-07-16T23:54:54.386Z"
+  },
+  "barrio3": {
+    "nombre": "CENTRO NORTE",
+    "activo": true,
+    "fechaConfiguracion": "2025-07-16T23:55:05.340Z"
+  },
+  "fechaActualizacion": "2025-07-16T23:55:05.340Z"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "messageId": "3FFF291BD4A091F4B1DB",
+    "timestamp": 1752712847000,
+    "fecha": "16/7/2025",
+    "hora": "21:40:47",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "v",
+    "codigo": 0,
+    "contenido": "v",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FFF291BD4A091F4B1DB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752712847
+    },
+    "id": 1752713049497.5764,
+    "fechaCaptura": "2025-07-17T00:44:09.497Z"
+  }
+]

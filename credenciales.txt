@@ -1,0 +1,137 @@
+# ============================================
+# WhatsApp Bot MOPOF - CREDENCIALES Y TOKENS
+# ============================================
+
+🔑 TOKENS/APIS QUE NECESITAS CONFIGURAR:
+
+1. 🤖 GEMINI IA API KEY
+   ┌──────────────────────────────────────────────────────┐
+   │ Archivo: managers/IAManager.js                       │
+   │ Línea: GEMINI_API_KEY: 'TU_API_KEY'                  │
+   │ Obtener en: https://makersuite.google.com/app/apikey │
+   │ Es GRATIS hasta cierto límite                        │
+   └──────────────────────────────────────────────────────┘
+
+2. 📊 GOOGLE OAUTH CREDENTIALS  
+   ┌─────────────────────────────────────────┐
+   │ Archivo: oauth_credentials.json         │
+   │ Obtener en: Google Cloud Console        │
+   │ API: Google Drive + Google Sheets       │
+   │ Tipo: OAuth 2.0 Desktop Application     │
+   └─────────────────────────────────────────┘
+
+3. 📱 WHATSAPP WEB (Automático)
+   ┌─────────────────────────────────────────┐
+   │ Se conecta automáticamente con QR       │
+   │ NO necesitas API de WhatsApp Business   │
+   │ Solo escanear QR con tu teléfono        │
+   │ Carpeta: ./auth_info/ (se crea sola)    │
+   └─────────────────────────────────────────┘
+
+# ============================================
+# PASOS DE CONFIGURACIÓN DETALLADOS
+# ============================================
+
+🚀 PASO 1: GEMINI IA API
+-------------------------
+1. Ir a: https://makersuite.google.com/app/apikey
+2. Hacer clic en "Create API Key"
+3. Copiar la API Key
+4. Abrir: managers/IAManager.js
+5. Buscar línea: GEMINI_API_KEY: 'AIzaSyCUGkuf...'
+6. Reemplazar con tu API Key
+
+🚀 PASO 2: GOOGLE DRIVE/SHEETS API  
+----------------------------------
+1. Ir a: https://console.cloud.google.com/
+2. Crear nuevo proyecto o usar existente
+3. Habilitar APIs:
+   - Google Drive API
+   - Google Sheets API
+4. Ir a "Credentials" → "Create Credentials" → "OAuth 2.0 Client ID"
+5. Tipo: "Desktop Application"
+6. Descargar JSON y renombrar a "oauth_credentials.json"
+7. Poner archivo en la raíz del proyecto
+
+🚀 PASO 3: PRIMERA EJECUCIÓN (OAuth)
+------------------------------------
+1. Ejecutar: node main.js
+2. Se abrirá navegador automáticamente
+3. Iniciar sesión con tu cuenta Google
+4. Aceptar permisos
+5. Se creará automáticamente "token.json"
+
+🚀 PASO 4: WHATSAPP CONNECTION
+------------------------------
+1. El bot mostrará QR en terminal
+2. Abrir WhatsApp en tu teléfono
+3. Ir a: Configuración → Dispositivos vinculados
+4. Escanear QR mostrado en terminal
+5. ¡Bot conectado!
+
+# ============================================
+# ESTRUCTURA DE ARCHIVOS FINAL
+# ============================================
+
+proyecto/
+├── main.js
+├── requirements.txt
+├── oauth_credentials.json ← 📥 DESCARGAR DE GOOGLE
+├── token.json ← ✅ SE CREA AUTOMÁTICO
+├── managers/
+│   ├── IAManager.js ← 🔧 EDITAR API KEY
+│   ├── DriveManager.js
+│   ├── SheetsManager.js
+│   └── JSONManager.js
+├── auth_info/ ← ✅ SE CREA AUTOMÁTICO (WhatsApp)
+├── config/ ← ✅ SE CREA AUTOMÁTICO
+├── data/ ← ✅ SE CREA AUTOMÁTICO
+└── backups/ ← ✅ SE CREA AUTOMÁTICO
+
+# ============================================
+# VERIFICACIÓN RÁPIDA
+# ============================================
+
+✅ CHECKLIST ANTES DE INICIAR:
+
+□ Node.js instalado (node --version)
+□ Dependencias instaladas (npm install)
+□ oauth_credentials.json en raíz del proyecto
+□ GEMINI_API_KEY configurado en managers/IAManager.js
+□ Primera autenticación OAuth completada
+□ WhatsApp Web conectado con QR
+
+# ============================================
+# COMANDOS ÚTILES
+# ============================================
+
+# Instalar dependencias
+cat requirements.txt | xargs npm install
+
+# Iniciar bot
+node main.js
+
+# Ver credenciales Google (después de OAuth)
+cat token.json
+
+# Verificar configuración IA
+grep "GEMINI_API_KEY" managers/IAManager.js
+
+# ============================================
+# TROUBLESHOOTING COMÚN
+# ============================================
+
+❌ Error "API Key inválida":
+   → Verificar GEMINI_API_KEY en managers/IAManager.js
+
+❌ Error Google Drive:
+   → Verificar oauth_credentials.json
+   → Regenerar token.json (eliminar y volver a autenticar)
+
+❌ WhatsApp desconectado:
+   → Eliminar carpeta auth_info/
+   → Volver a escanear QR
+
+❌ "Permission denied":
+   → Verificar permisos de Google Drive API
+   → Verificar que la cuenta tenga acceso

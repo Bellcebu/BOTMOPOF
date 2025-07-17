@@ -1,0 +1,164 @@
+[
+  {
+    "messageId": "3F6F0BDC136F71BC1B58",
+    "timestamp": 1752709262000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:02",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "11 VILLA ESPERANZA",
+    "codigo": 11,
+    "contenido": "VILLA ESPERANZA",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F6F0BDC136F71BC1B58",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709262
+    },
+    "id": 1752709319843.0837,
+    "fechaCaptura": "2025-07-16T23:41:59.843Z"
+  },
+  {
+    "messageId": "3FA3A9882FBC3B93A195",
+    "timestamp": 1752709270000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:10",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "12 SAN MARTIN",
+    "codigo": 12,
+    "contenido": "SAN MARTIN",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FA3A9882FBC3B93A195",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709270
+    },
+    "id": 1752709319845.537,
+    "fechaCaptura": "2025-07-16T23:41:59.845Z"
+  },
+  {
+    "messageId": "3F1A2790177FA6B020E8",
+    "timestamp": 1752709275000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:15",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "13 CENTRO NORTE",
+    "codigo": 13,
+    "contenido": "CENTRO NORTE",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F1A2790177FA6B020E8",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709275
+    },
+    "id": 1752709319852.5486,
+    "fechaCaptura": "2025-07-16T23:41:59.852Z"
+  },
+  {
+    "messageId": "3F701D0F02070B19AEF7",
+    "timestamp": 1752709281000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:21",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "1 Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "codigo": 1,
+    "contenido": "Juan Pérez, Calle San Juan 123, Casa 45, 1123456789, Problema con el alumbrado público",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F701D0F02070B19AEF7",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709281
+    },
+    "id": 1752709319855.264,
+    "fechaCaptura": "2025-07-16T23:41:59.855Z"
+  },
+  {
+    "messageId": "3F959ACF8E01F4FF10CD",
+    "timestamp": 1752709287000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:27",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "2 María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "codigo": 2,
+    "contenido": "María García, Av. Libertad 567, 1134567890, Baches en la calle",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F959ACF8E01F4FF10CD",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709287
+    },
+    "id": 1752709319858.5361,
+    "fechaCaptura": "2025-07-16T23:41:59.858Z"
+  },
+  {
+    "messageId": "3FAF2F7CDAE3560C0BFC",
+    "timestamp": 1752709292000,
+    "fecha": "16/7/2025",
+    "hora": "20:41:32",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "3 Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "codigo": 3,
+    "contenido": "Carlos López, Mitre 890, 1145678901, Falta recolección de basura",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FAF2F7CDAE3560C0BFC",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752709292
+    },
+    "id": 1752709319907.6162,
+    "fechaCaptura": "2025-07-16T23:41:59.907Z"
+  }
+]

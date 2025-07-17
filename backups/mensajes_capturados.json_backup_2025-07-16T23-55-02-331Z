@@ -1,0 +1,85 @@
+[
+  {
+    "messageId": "3F4AFC5D03A03CF8AEFB",
+    "timestamp": 1752710032000,
+    "fecha": "16/7/2025",
+    "hora": "20:53:52",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "11 VILLA ESPERANZA",
+    "codigo": 11,
+    "contenido": "VILLA ESPERANZA",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": true,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F4AFC5D03A03CF8AEFB",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710032
+    },
+    "id": 1752710051446.0083,
+    "fechaCaptura": "2025-07-16T23:54:11.446Z",
+    "fechaProcesado": "2025-07-16T23:54:51.372Z",
+    "resultadoProcesamiento": "Barrio configurado exitosamente"
+  },
+  {
+    "messageId": "3FF6CD9C24B9D08C1D23",
+    "timestamp": 1752710033000,
+    "fecha": "16/7/2025",
+    "hora": "20:53:53",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "12 SAN MARTIN",
+    "codigo": 12,
+    "contenido": "SAN MARTIN",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3FF6CD9C24B9D08C1D23",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710033
+    },
+    "id": 1752710051486.283,
+    "fechaCaptura": "2025-07-16T23:54:11.486Z"
+  },
+  {
+    "messageId": "3F32A3B9717432C02812",
+    "timestamp": 1752710041000,
+    "fecha": "16/7/2025",
+    "hora": "20:54:01",
+    "contacto": "~Bell",
+    "pushName": "~Bell",
+    "participant": "164252501434545@lid",
+    "remoteJid": "120363421472416770@g.us",
+    "textoCompleto": "13 CENTRO NORTE",
+    "codigo": 13,
+    "contenido": "CENTRO NORTE",
+    "fromMe": false,
+    "tipo": "texto",
+    "procesado": false,
+    "baileys_raw": {
+      "key": {
+        "remoteJid": "120363421472416770@g.us",
+        "fromMe": false,
+        "id": "3F32A3B9717432C02812",
+        "participant": "164252501434545@lid"
+      },
+      "messageTimestamp": 1752710041
+    },
+    "id": 1752710051528.6667,
+    "fechaCaptura": "2025-07-16T23:54:11.528Z"
+  }
+]
